@@ -68,7 +68,3 @@ vno <right> <Nop>
 vmap <up> <Nop>
 
 set nu
-
-execute pathogen#infect()
-
-autocmd vimenter * NERDTree
